@@ -5,3 +5,7 @@ Answer: So that we can switch back to any previous version if somehow we mess up
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to finance; for example, analyzing transaction data to detect fraudulent activity.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines branches with a merge commit and keeps history intact, while rebasing moves commits onto another branch to create a cleaner, linear history.
